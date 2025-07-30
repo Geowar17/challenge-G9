@@ -63,9 +63,9 @@ Aplicación web simple que permite a los usuarios ingresar nombres de amigos en 
 
 ## 🧑‍💻 Autor
 
-Desarrollado por [Tu Nombre o Alias]  
-📧 Contacto: [tu-correo@ejemplo.com]  
-🌐 GitHub: [https://github.com/TU_USUARIO]
+Desarrollado por Geowar17  
+📧 Contacto: geovannylucena@gmil.com
+🌐 GitHub: https://github.com/Geowar17
 
 ---
 
