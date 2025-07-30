@@ -6,7 +6,7 @@ Aplicación web simple que permite a los usuarios ingresar nombres de amigos en 
 
 ## 🖼️ Captura de pantalla
 
-![Vista de la aplicación](.assets/screenshot.png)
+![Vista de la aplicación](assets/screenshot.png)
 
 ---
 
