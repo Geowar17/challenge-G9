@@ -1,5 +1,4 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
-// Lista donde se almacenarán los nombres
+
 const listaNombres = [];
 
 function agregarAmigo() {
@@ -48,6 +47,4 @@ function sortearAmigo() {
     li.textContent = `El amigo secreto es: ${nombreSorteado}`;
     resultado.appendChild(li);
 }
-
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 
